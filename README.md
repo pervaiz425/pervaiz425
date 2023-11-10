@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I'm Umar, a Software Engineering student, and I'm passionate about programming. I have hands-on experience with a variety of programming languages, including C++, Python, Javascript, HTML, CSS, and SQL. Currently, I'm focusing on honing my skills in Web Development, Database Modeling, and Networking.
+ I'm Umar, a Software Engineering student, and I'm passionate about programming. I have hands-on experience with a variety of programming languages, including C++, Python, Javascript, HTML, CSS, and SQL. Furthermore, I have experience working in MS Excel, Data Scraping, Data Entry, and Transcription. Currently, I'm focusing on honing my skills in Web Development, Database Modeling, and Networking.
 
 - 🛠️ I'm actively engaged in enhancing my abilities through practical projects in the realms of Web Development, Database Management, and Networking. I take great pride in considering myself an enthusiastic and dedicated programmer. 💻
 
